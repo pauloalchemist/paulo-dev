@@ -1,5 +1,5 @@
 +++
-title= "Lista de postagem do blog"
+title= "Meus artigos"
 sort_by= "date"
 template= "blog.html"
 page_template= "blog-page.html"
